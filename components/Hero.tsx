@@ -37,9 +37,9 @@ export default function Hero() {
               alt="Student browsing wireless headphones on the UZ Marketplace"
               fill
               sizes="100vw"
-              className="object-cover opacity-70 transition-opacity duration-2000 ease-in-out"
+              className="object-cover opacity-85 transition-opacity duration-2000 ease-in-out"
             />
-            <div className="absolute inset-0 bg-gradient-to-r from-[#F5F7FB] via-[#F5F7FB]/80 to-[#F5F7FB]/50" />
+            <div className="absolute inset-0 bg-gradient-to-r from-[#F5F7FB] via-[#F5F7FB]/85 to-[#F5F7FB]/55" />
             <div className="absolute -top-16 -left-16 h-96 w-96 rounded-full bg-royal-400/20 blur-3xl animate-float-y" />
             <div
               className="absolute -bottom-32 -right-16 h-[28rem] w-[28rem] rounded-full bg-sun-300/20 blur-3xl animate-float-y"
